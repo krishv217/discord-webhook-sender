@@ -16,3 +16,5 @@ Supported commands:
 • `$help` - Show the help message
 
 If you have any issues, feel free to DM me on Discord @ `.krik`
+
+![Embed example](embed.png)
