@@ -1,0 +1,12 @@
+{
+  "group1": {
+    "name": "Channel 1",
+    "wh": "https://discord.com/api/webhooks/XXXX",
+    "role": 1234567890
+  },
+    "group2": {
+    "name": "Channel 2",
+    "wh": "https://discord.com/api/webhooks/XXXX",
+    "role": 1234567890
+  }
+}
