@@ -7,13 +7,21 @@ To use:
 3. Run DiscordWHSender.py
 
 Supported commands:
+
 • `!<message>` - Send embed message to all webhooks
+
 • `&<message>` - Send normal message to all webhooks
+
 • `$current` - Show current image URL
+
 • `$setimage <url>` - Set image URL for embeds
+
 • `$clearimage` - Clear current image
+
 • `$reload` - Reload webhook configuration from JSON
+
 • `$help` - Show the help message
+
 
 If you have any issues, feel free to DM me on Discord @ `.krik`
 
