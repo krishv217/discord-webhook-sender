@@ -3,8 +3,9 @@ A multi-webhook customizable message sender with support for embeds, images and 
 
 To use:
 1. Install required packages using `pip install -r requirements.txt`
-2. Enter your Discord bot token and customize embed features (headers, footers, thumbnails, etc.) in DiscordWHSender.py
-3. Run DiscordWHSender.py
+2. Enter your Discord bot token and customize embed features (headers, footers, thumbnails, etc.) in `DiscordWHSender.py`
+3. Enter webhooks and roles for each group/webhook in `webhooks.json`
+4. Run `DiscordWHSender.py`
 
 Supported commands:
 
